@@ -1,57 +1,49 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+## Enumerable
 
-# Project Name
+> It is an exercise for Ruby Enumerable studies
 
-> Description the project.
+## Built With
 
-
-## Built With 
-
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available) 💻
-
-[Live Demo Link](https://livedemo.com)
-
+- Ruby
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
+
+1- Copy this link `https://github.com/ahzamir/enumerable.git` <br>
+2- Get the directory that you want to clone the repository. <br>
+3- Open the command prompt in this directory. <br>
+4- Write `git clone https://github.com/ahzamir/enumerable.git` <br>
+5- Go to the repository folder in your command prompt `cd enumerable`. <br>
+6- Go to command line and run `ruby enumerable.rb`  or you can just paste the code on IRB (Interactive Ruby)
+
+To setup linters on your local environment, please follow these steps.
+
+1- Run `bundle install`.
+2- Run `rubocop .` for the errors.
 
 ### Prerequisites
 
-You must have a browser on your device, visual code, a git version, [node.js](https://nodejs.org/en/) installed in your device and clone the repo from GitHub and follow the steps below.
-
-### Setup
-
-Clone the repository from GitHub, open the project folder, inside the project direcory open the commanline or Terminal and install the dependicies.
-
-### Install
-
-inside the project direcory open the commanline or Terminal, run npm install to install all the dependicies.
-
-### Usage
-
-To use this project or app run npm start in the project directory and you will see the live serever open on youe browser.
-
-### Run tests
-
-For running tests inside the project directory run npm test in command line or Terminal.
-
-### Deployment
-
+IRB(Interactive Ruby Shell), VSCode, WSL(for Windows OS), for linters on local environment Ruby Gem.
 
 ## Authors
+
+👤 **Huseyin Biyik**
+
+- GitHub: [@huseyinbiyik](https://github.com/huseyinbiyik)
+- Twitter: [@huseyin__biyik](https://twitter.com/huseyin__biyik)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/huseyin-b%C4%B1y%C4%B1k/)
+
+👤 **Ahmad Zamir**
 
 - GitHub: [@ahzamir](https://github.com/ahzamir).
 - Twitter: [@YousufiZamir](https://twitter.com/YousufiZamir)
 - LinkedIn: [ahmad-zamir-yousufi](https://www.linkedin.com/in/ahzamir/)
+
+👤 **Happen Mathebula**
+
+- GitHub: [@githubhandle](https://github.com/HSMathebula)
+- LinkedIn: [@TaherHaggui](https://www.linkedin.com/in/happen-mathebula-4b0438115/)
 
 ## 🤝 Contributing
 
@@ -65,10 +57,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+-Thank you to Microverse Inc.
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](./LICENSE.md) licensed.
