@@ -12,5 +12,11 @@ module MyEnumerable
       each { |n| return true if yield (n) }
       false
     end
+
+    def filter
+      num_arr = []
+      each { |n| num_arr.push(n) if yield (n) }
+      num_arr
+    end
 end
 
