@@ -40,10 +40,11 @@ IRB(Interactive Ruby Shell), VSCode, WSL(for Windows OS), for linters on local e
 - Twitter: [@YousufiZamir](https://twitter.com/YousufiZamir)
 - LinkedIn: [ahmad-zamir-yousufi](https://www.linkedin.com/in/ahzamir/)
 
-👤 **Happen Mathebula**
+👤 **Happen S Mathebula**
 
-- GitHub: [@githubhandle](https://github.com/HSMathebula)
-- LinkedIn: [@TaherHaggui](https://www.linkedin.com/in/happen-mathebula-4b0438115/)
+- GitHub: [@HSMathebula](https://hsmathebula.github.io/Happen_S_Mathebula/)
+- Twitter: [@HappenSipho](https://twitter.com/HappenSipho)
+- LinkedIn: [happen-sipho-mathebula](www.linkedin.com/in/happen-sipho-mathebula)
 
 ## 🤝 Contributing
 
